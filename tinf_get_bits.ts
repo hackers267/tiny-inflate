@@ -1,4 +1,4 @@
-import {Data} from "./data.ts";
+import { Data } from "./data.ts";
 
 export function tinf_get_bits(data: Data) {
   if (data.bitCount--) {

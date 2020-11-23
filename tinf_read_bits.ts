@@ -1,4 +1,4 @@
-import {Data} from "./data.ts";
+import { Data } from "./data.ts";
 
 export function tinf_read_bits(d: Data, num: number, base: number) {
   if (!num) return base;

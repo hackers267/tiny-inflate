@@ -1,5 +1,5 @@
-import {Data} from "./data.ts";
-import {Tree} from "./tree.ts";
+import { Data } from "./data.ts";
+import { Tree } from "./tree.ts";
 
 export function tinf_decode_symbol(data: Data, tree: Tree) {
   while (data.bitCount < 24) {

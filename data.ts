@@ -1,4 +1,4 @@
-import {Tree} from "./tree.ts";
+import { Tree } from "./tree.ts";
 
 export class Data {
   source: any;
